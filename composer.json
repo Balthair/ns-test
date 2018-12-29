@@ -1,0 +1,15 @@
+{
+    "name": "hersh/rain-test",
+    "authors": [
+        {
+            "name": "Gershell López",
+            "email": "grlopez90@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    }
+}
